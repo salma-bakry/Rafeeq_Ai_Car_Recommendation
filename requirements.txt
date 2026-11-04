@@ -1,0 +1,2 @@
+This file will contain a list of dependencies for the project. 
+Each dependency should be listed on a new line, and you can specify the version of the package if needed. 
